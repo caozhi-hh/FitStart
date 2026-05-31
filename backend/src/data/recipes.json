@@ -1,0 +1,332 @@
+{
+  "recipes": [
+    {
+      "id": "muscle-breakfast-1",
+      "name": "燕麦鸡蛋增肌早餐",
+      "type": "muscle-gain",
+      "meal": "breakfast",
+      "description": "高蛋白碳水组合，为增肌训练提供充足能量和营养。",
+      "ingredients": [
+        {"name": "燕麦", "amount": "80g"},
+        {"name": "鸡蛋", "amount": "2个"},
+        {"name": "牛奶", "amount": "250ml"},
+        {"name": "香蕉", "amount": "1根"},
+        {"name": "坚果", "amount": "20g"}
+      ],
+      "steps": [
+        "燕麦加入牛奶，微波炉加热2分钟或小火煮5分钟",
+        "鸡蛋煮熟或煎熟（少油）",
+        "香蕉切片，坚果切碎",
+        "将香蕉和坚果撒在燕麦上",
+        "搭配鸡蛋一起食用"
+      ],
+      "nutrition": {
+        "calories": 650,
+        "protein": 32,
+        "carbs": 75,
+        "fat": 22
+      },
+      "tips": "训练前1-2小时食用最佳，可以再加一勺蛋白粉",
+      "imageUrl": "/images/recipes/oatmeal-breakfast.jpg"
+    },
+    {
+      "id": "muscle-lunch-1",
+      "name": "鸡胸肉糙米套餐",
+      "type": "muscle-gain",
+      "meal": "lunch",
+      "description": "经典增肌餐，高蛋白低脂肪，搭配复合碳水。",
+      "ingredients": [
+        {"name": "鸡胸肉", "amount": "200g"},
+        {"name": "糙米", "amount": "150g"},
+        {"name": "西兰花", "amount": "150g"},
+        {"name": "橄榄油", "amount": "10ml"},
+        {"name": "蒜、姜", "amount": "适量"}
+      ],
+      "steps": [
+        "糙米提前浸泡1小时，煮熟备用",
+        "鸡胸肉切丁，用盐、黑胡椒腌制10分钟",
+        "西兰花焯水2分钟",
+        "热锅加橄榄油，爆炒鸡丁至变色",
+        "加入西兰花一起翻炒，调味即可"
+      ],
+      "nutrition": {
+        "calories": 580,
+        "protein": 45,
+        "carbs": 55,
+        "fat": 12
+      },
+      "tips": "可以提前准备好一周的糙米，冷藏保存",
+      "imageUrl": "/images/recipes/chicken-rice.jpg"
+    },
+    {
+      "id": "muscle-dinner-1",
+      "name": "牛排红薯增肌餐",
+      "type": "muscle-gain",
+      "meal": "dinner",
+      "description": "高质量蛋白质和碳水组合，适合训练后补充。",
+      "ingredients": [
+        {"name": "牛排", "amount": "200g"},
+        {"name": "红薯", "amount": "200g"},
+        {"name": "芦笋", "amount": "100g"},
+        {"name": "橄榄油", "amount": "10ml"},
+        {"name": "黑胡椒", "amount": "适量"}
+      ],
+      "steps": [
+        "红薯洗净，烤箱200度烤40分钟",
+        "牛排室温回温15分钟，两面撒盐和黑胡椒",
+        "平底锅高温加油，煎牛排每面2-3分钟",
+        "芦笋焯水或煎制",
+        "摆盘即可享用"
+      ],
+      "nutrition": {
+        "calories": 620,
+        "protein": 42,
+        "carbs": 48,
+        "fat": 25
+      },
+      "tips": "选择瘦牛肉部位如牛里脊，脂肪含量更低",
+      "imageUrl": "/images/recipes/steak-sweetpotato.jpg"
+    },
+    {
+      "id": "muscle-snack-1",
+      "name": "蛋白粉香蕉奶昔",
+      "type": "muscle-gain",
+      "meal": "snack",
+      "description": "训练后快速补充蛋白质和碳水，促进肌肉恢复。",
+      "ingredients": [
+        {"name": "蛋白粉", "amount": "30g"},
+        {"name": "香蕉", "amount": "1根"},
+        {"name": "牛奶", "amount": "300ml"},
+        {"name": "花生酱", "amount": "15g"},
+        {"name": "冰块", "amount": "适量"}
+      ],
+      "steps": [
+        "香蕉切块，放入搅拌机",
+        "加入蛋白粉、牛奶、花生酱",
+        "加入适量冰块",
+        "搅拌1分钟至顺滑",
+        "立即饮用"
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 35,
+        "carbs": 45,
+        "fat": 12
+      },
+      "tips": "训练后30分钟内饮用效果最佳",
+      "imageUrl": "/images/recipes/protein-shake.jpg"
+    },
+    {
+      "id": "fat-loss-breakfast-1",
+      "name": "全麦吐司鸡蛋早餐",
+      "type": "fat-loss",
+      "meal": "breakfast",
+      "description": "低卡高蛋白早餐，帮助控制热量摄入同时保持饱腹感。",
+      "ingredients": [
+        {"name": "全麦吐司", "amount": "2片"},
+        {"name": "鸡蛋", "amount": "2个"},
+        {"name": "番茄", "amount": "1个"},
+        {"name": "生菜", "amount": "几片"},
+        {"name": "黑咖啡", "amount": "1杯"}
+      ],
+      "steps": [
+        "鸡蛋煮熟或做成荷包蛋（少油）",
+        "番茄切片，生菜洗净",
+        "吐司烤至微黄",
+        "将鸡蛋、番茄、生菜夹入吐司",
+        "搭配黑咖啡食用"
+      ],
+      "nutrition": {
+        "calories": 350,
+        "protein": 20,
+        "carbs": 35,
+        "fat": 12
+      },
+      "tips": "黑咖啡可以提高代谢，但不要加糖",
+      "imageUrl": "/images/recipes/whole-wheat-breakfast.jpg"
+    },
+    {
+      "id": "fat-loss-lunch-1",
+      "name": "三文鱼藜麦沙拉",
+      "type": "fat-loss",
+      "meal": "lunch",
+      "description": "优质蛋白质和健康脂肪组合，低碳水午餐。",
+      "ingredients": [
+        {"name": "三文鱼", "amount": "150g"},
+        {"name": "藜麦", "amount": "50g"},
+        {"name": "混合蔬菜", "amount": "100g"},
+        {"name": "橄榄油", "amount": "10ml"},
+        {"name": "柠檬汁", "amount": "适量"}
+      ],
+      "steps": [
+        "藜麦洗净，加水煮15分钟至熟",
+        "三文鱼用盐、黑胡椒腌制",
+        "平底锅少油煎三文鱼，每面3分钟",
+        "混合蔬菜洗净沥干",
+        "将所有食材混合，淋上橄榄油和柠檬汁"
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 32,
+        "carbs": 28,
+        "fat": 18
+      },
+      "tips": "三文鱼富含Omega-3脂肪酸，对心脏健康有益",
+      "imageUrl": "/images/recipes/salmon-salad.jpg"
+    },
+    {
+      "id": "fat-loss-dinner-1",
+      "name": "鸡胸肉蔬菜沙拉",
+      "type": "fat-loss",
+      "meal": "dinner",
+      "description": "低卡高蛋白晚餐，丰富的膳食纤维帮助消化。",
+      "ingredients": [
+        {"name": "鸡胸肉", "amount": "150g"},
+        {"name": "生菜", "amount": "100g"},
+        {"name": "黄瓜", "amount": "1根"},
+        {"name": "圣女果", "amount": "10颗"},
+        {"name": "橄榄油醋汁", "amount": "适量"}
+      ],
+      "steps": [
+        "鸡胸肉用盐、黑胡椒腌制，煮熟或煎熟",
+        "鸡胸肉放凉后切片",
+        "生菜撕小块，黄瓜切片，圣女果对半切",
+        "将所有蔬菜放入大碗",
+        "放上鸡胸肉，淋上橄榄油醋汁"
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 35,
+        "carbs": 12,
+        "fat": 8
+      },
+      "tips": "晚餐尽量在睡前3小时吃完",
+      "imageUrl": "/images/recipes/chicken-salad.jpg"
+    },
+    {
+      "id": "fat-loss-snack-1",
+      "name": "希腊酸奶坚果杯",
+      "type": "fat-loss",
+      "meal": "snack",
+      "description": "高蛋白低糖零食，满足口腹之欲又不会发胖。",
+      "ingredients": [
+        {"name": "希腊酸奶", "amount": "150g"},
+        {"name": "蓝莓", "amount": "50g"},
+        {"name": "坚果", "amount": "15g"},
+        {"name": "奇亚籽", "amount": "5g"}
+      ],
+      "steps": [
+        "希腊酸奶倒入碗中",
+        "加入洗净的蓝莓",
+        "撒上坚果和奇亚籽",
+        "搅拌均匀即可食用"
+      ],
+      "nutrition": {
+        "calories": 200,
+        "protein": 18,
+        "carbs": 15,
+        "fat": 8
+      },
+      "tips": "选择无糖希腊酸奶，蛋白质含量更高",
+      "imageUrl": "/images/recipes/yogurt-bowl.jpg"
+    },
+    {
+      "id": "healthy-lunch-2",
+      "name": "牛肉蔬菜炒饭",
+      "type": "muscle-gain",
+      "meal": "lunch",
+      "description": "均衡营养的炒饭，使用糙米饭更健康。",
+      "ingredients": [
+        {"name": "牛肉丁", "amount": "150g"},
+        {"name": "糙米饭", "amount": "150g"},
+        {"name": "胡萝卜", "amount": "50g"},
+        {"name": "豌豆", "amount": "50g"},
+        {"name": "鸡蛋", "amount": "1个"}
+      ],
+      "steps": [
+        "牛肉丁用生抽、料酒腌制10分钟",
+        "胡萝卜切丁，鸡蛋打散",
+        "热锅少油炒熟鸡蛋，盛出备用",
+        "炒牛肉丁至变色，加入蔬菜丁",
+        "加入糙米饭翻炒，最后加入鸡蛋"
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 35,
+        "carbs": 50,
+        "fat": 12
+      },
+      "tips": "使用隔夜糙米饭，炒出来更粒粒分明",
+      "imageUrl": "/images/recipes/beef-fried-rice.jpg"
+    },
+    {
+      "id": "healthy-dinner-2",
+      "name": "清蒸鱼配蔬菜",
+      "type": "fat-loss",
+      "meal": "dinner",
+      "description": "清淡健康的晚餐，优质蛋白质和丰富蔬菜。",
+      "ingredients": [
+        {"name": "鲈鱼/鲫鱼", "amount": "300g"},
+        {"name": "娃娃菜", "amount": "150g"},
+        {"name": "豆腐", "amount": "100g"},
+        {"name": "姜丝", "amount": "适量"},
+        {"name": "葱花", "amount": "适量"}
+      ],
+      "steps": [
+        "鱼洗净，两面划刀，抹少许盐",
+        "盘中铺上娃娃菜和豆腐",
+        "放上鱼，撒上姜丝",
+        "大火蒸10-12分钟",
+        "出锅撒葱花，淋少许蒸鱼豉油"
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 38,
+        "carbs": 8,
+        "fat": 10
+      },
+      "tips": "鱼肉蛋白质易吸收，适合晚餐食用",
+      "imageUrl": "/images/recipes/steamed-fish.jpg"
+    }
+  ],
+  "mealPlans": {
+    "muscle-gain": {
+      "name": "增肌饮食计划",
+      "description": "高蛋白中碳水，为肌肉生长提供充足营养",
+      "dailyCalories": "2500-3000",
+      "proteinRatio": "30%",
+      "carbsRatio": "45%",
+      "fatRatio": "25%",
+      "weeklyPlan": [
+        {
+          "day": "周一",
+          "meals": {
+            "breakfast": "燕麦鸡蛋增肌早餐",
+            "lunch": "鸡胸肉糙米套餐",
+            "snack": "蛋白粉香蕉奶昔",
+            "dinner": "牛排红薯增肌餐"
+          }
+        }
+      ]
+    },
+    "fat-loss": {
+      "name": "减脂饮食计划",
+      "description": "高蛋白低碳水，制造热量缺口",
+      "dailyCalories": "1500-1800",
+      "proteinRatio": "40%",
+      "carbsRatio": "30%",
+      "fatRatio": "30%",
+      "weeklyPlan": [
+        {
+          "day": "周一",
+          "meals": {
+            "breakfast": "全麦吐司鸡蛋早餐",
+            "lunch": "三文鱼藜麦沙拉",
+            "snack": "希腊酸奶坚果杯",
+            "dinner": "鸡胸肉蔬菜沙拉"
+          }
+        }
+      ]
+    }
+  }
+}

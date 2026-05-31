@@ -1,0 +1,403 @@
+{
+  "equipment": [
+    {
+      "id": "treadmill",
+      "name": "跑步机",
+      "category": "cardio",
+      "targetMuscles": ["腿部", "心肺"],
+      "difficulty": "beginner",
+      "description": "跑步机是最常见的有氧器械，适合所有健身水平的用户。可以调节速度和坡度，模拟不同的跑步环境。",
+      "instructions": [
+        "上机前先系好安全夹，夹在衣服上",
+        "双脚站在跑带两侧，双手握住扶手",
+        "启动跑步机，从低速开始（2-3km/h）",
+        "适应后逐渐加速到舒适的步行或跑步速度",
+        "保持身体挺直，目视前方，不要低头看脚",
+        "结束时逐渐减速，完全停止后再下机"
+      ],
+      "tips": [
+        "新手建议从步行开始，每次15-20分钟",
+        "跑步时前脚掌着地，减少膝盖冲击",
+        "保持呼吸均匀，不要憋气"
+      ],
+      "warnings": [
+        "不要在跑步机上跳跃或做剧烈动作",
+        "感到眩晕时立即减速停止",
+        "穿合适的运动鞋，不要赤脚"
+      ],
+      "imageUrl": "/images/equipment/treadmill.jpg",
+      "videoUrl": "https://www.bilibili.com/video/BV1example1"
+    },
+    {
+      "id": "elliptical",
+      "name": "椭圆机",
+      "category": "cardio",
+      "targetMuscles": ["全身", "心肺"],
+      "difficulty": "beginner",
+      "description": "椭圆机提供低冲击的全身有氧运动，特别适合关节敏感的人群。同时锻炼上肢和下肢。",
+      "instructions": [
+        "双手握住手柄，双脚踩在踏板上",
+        "保持背部挺直，核心收紧",
+        "双脚做椭圆形运动，双手随之推拉",
+        "保持均匀的节奏，不要过快",
+        "可以通过调节阻力增加强度"
+      ],
+      "tips": [
+        "新手每次15-20分钟，阻力从低开始",
+        "脚后跟不要抬起，保持全脚掌接触踏板",
+        "配合手臂运动，效果更好"
+      ],
+      "warnings": [
+        "不要锁死膝盖关节",
+        "运动中不要停下来突然反向"
+      ],
+      "imageUrl": "/images/equipment/elliptical.jpg",
+      "videoUrl": "https://www.bilibili.com/video/BV1example2"
+    },
+    {
+      "id": "rowing-machine",
+      "name": "划船机",
+      "category": "cardio",
+      "targetMuscles": ["背部", "腿部", "核心", "心肺"],
+      "difficulty": "intermediate",
+      "description": "划船机是全身性有氧器械，约80%的肌肉群参与运动。特别锻炼背部和腿部肌肉。",
+      "instructions": [
+        "坐在座椅上，双脚固定在踏板上",
+        "双手握住手柄，掌心向下",
+        "先蹬腿，再后倾身体，最后拉手臂",
+        "回程时先放手，再前倾，最后收腿",
+        "保持节奏流畅，动作连贯"
+      ],
+      "tips": [
+        "蹬腿发力占主要，手臂只是最后拉动",
+        "保持背部挺直，不要驼背",
+        "每次20-30分钟效果最佳"
+      ],
+      "warnings": [
+        "不要用手臂强行拉起，容易伤腰",
+        "后倾不要超过45度"
+      ],
+      "imageUrl": "/images/equipment/rowing.jpg",
+      "videoUrl": "https://www.bilibili.com/video/BV1example3"
+    },
+    {
+      "id": "chest-press",
+      "name": "坐姿推胸机",
+      "category": "strength-upper",
+      "targetMuscles": ["胸大肌", "三角肌前束", "肱三头肌"],
+      "difficulty": "beginner",
+      "description": "坐姿推胸机是锻炼胸肌的基础器械，轨迹固定，适合新手掌握正确的推胸动作。",
+      "instructions": [
+        "调整座椅高度，手柄与胸部齐平",
+        "背部紧贴靠背，核心收紧",
+        "双手握住手柄，肘部与肩同高",
+        "向前推起手柄，手臂伸直但不锁死",
+        "缓慢还原，感受胸肌拉伸"
+      ],
+      "tips": [
+        "推起时呼气，还原时吸气",
+        "注意力集中在胸肌收缩",
+        "每组8-12次，做3-4组"
+      ],
+      "warnings": [
+        "不要用肩膀耸肩发力",
+        "重量从轻开始，先掌握动作",
+        "肘部不要完全锁死"
+      ],
+      "imageUrl": "/images/equipment/chest-press.jpg",
+      "videoUrl": "https://www.bilibili.com/video/BV1example4"
+    },
+    {
+      "id": "butterfly",
+      "name": "蝴蝶机",
+      "category": "strength-upper",
+      "targetMuscles": ["胸大肌中缝", "三角肌前束"],
+      "difficulty": "beginner",
+      "description": "蝴蝶机专门锻炼胸肌中缝，帮助塑造胸肌线条，是胸部训练的辅助器械。",
+      "instructions": [
+        "调整座椅高度，手臂与肩同高",
+        "背部紧贴靠背，双手握住手柄",
+        "双臂向中间夹拢，挤压胸肌",
+        "在最高点停顿1-2秒",
+        "缓慢还原，保持控制"
+      ],
+      "tips": [
+        "夹拢时呼气，还原时吸气",
+        "想象胸部用力夹住一支笔",
+        "每组12-15次，做3组"
+      ],
+      "warnings": [
+        "不要用手臂发力，用胸部带动",
+        "动作要慢，感受肌肉收缩"
+      ],
+      "imageUrl": "/images/equipment/butterfly.jpg",
+      "videoUrl": "https://www.bilibili.com/video/BV1example5"
+    },
+    {
+      "id": "lat-pulldown",
+      "name": "高位下拉",
+      "category": "strength-upper",
+      "targetMuscles": ["背阔肌", "大圆肌", "肱二头肌"],
+      "difficulty": "beginner",
+      "description": "高位下拉是锻炼背部的经典动作，帮助打造倒三角身材，是引体向上的替代训练。",
+      "instructions": [
+        "坐稳后，大腿被挡板固定",
+        "双手宽握横杆，掌心向前",
+        "挺胸收腹，身体微微后倾",
+        "将横杆拉到锁骨位置，挤压背部",
+        "缓慢还原，感受背阔肌拉伸"
+      ],
+      "tips": [
+        "下拉时想象用肘部向下拉，而不是手",
+        "保持胸部挺起，不要含胸",
+        "每组8-12次，做3-4组"
+      ],
+      "warnings": [
+        "不要过度后仰借力",
+        "不要耸肩，保持肩胛骨下沉",
+        "还原时保持控制，不要突然放松"
+      ],
+      "imageUrl": "/images/equipment/lat-pulldown.jpg",
+      "videoUrl": "https://www.bilibili.com/video/BV1example6"
+    },
+    {
+      "id": "seated-row",
+      "name": "坐姿划船",
+      "category": "strength-upper",
+      "targetMuscles": ["背阔肌", "菱形肌", "斜方肌中束"],
+      "difficulty": "beginner",
+      "description": "坐姿划船锻炼背部厚度，帮助改善体态，对抗因久坐导致的圆肩驼背。",
+      "instructions": [
+        "坐在平台上，双脚踩稳踏板",
+        "双手握住手柄，膝盖微曲",
+        "挺胸收腹，身体微微前倾",
+        "将手柄拉到腹部，挤压肩胛骨",
+        "缓慢还原，保持背部紧张"
+      ],
+      "tips": [
+        "拉回时肘部贴近身体两侧",
+        "想象用肘部向后拉",
+        "每组10-12次，做3-4组"
+      ],
+      "warnings": [
+        "不要过度后仰",
+        "保持背部挺直，不要驼背",
+        "还原时保持控制"
+      ],
+      "imageUrl": "/images/equipment/seated-row.jpg",
+      "videoUrl": "https://www.bilibili.com/video/BV1example7"
+    },
+    {
+      "id": "shoulder-press",
+      "name": "肩部推举机",
+      "category": "strength-upper",
+      "targetMuscles": ["三角肌", "肱三头肌", "斜方肌"],
+      "difficulty": "beginner",
+      "description": "肩部推举机专门锻炼三角肌，帮助打造宽厚的肩膀，让上半身更有型。",
+      "instructions": [
+        "调整座椅高度，手柄与肩同高",
+        "背部紧贴靠背，核心收紧",
+        "双手握住手柄，向上推起",
+        "手臂伸直但不锁死",
+        "缓慢还原到起始位置"
+      ],
+      "tips": [
+        "推起时呼气，下放时吸气",
+        "不要耸肩，保持肩膀下沉",
+        "每组8-12次，做3组"
+      ],
+      "warnings": [
+        "重量不要过重，肩关节脆弱",
+        "如有肩部不适，减少重量或停止"
+      ],
+      "imageUrl": "/images/equipment/shoulder-press.jpg",
+      "videoUrl": "https://www.bilibili.com/video/BV1example8"
+    },
+    {
+      "id": "leg-press",
+      "name": "腿举机",
+      "category": "strength-lower",
+      "targetMuscles": ["股四头肌", "臀大肌", "腘绳肌"],
+      "difficulty": "beginner",
+      "description": "腿举机是锻炼下肢力量的基础器械，可以安全地使用较大重量，全面刺激腿部肌群。",
+      "instructions": [
+        "坐在座椅上，背部和臀部紧贴靠背",
+        "双脚放在踏板上，与肩同宽",
+        "解开安全锁，双手握住两侧手柄",
+        "缓慢下放踏板，膝盖弯曲到90度",
+        "用力蹬起踏板，腿伸直但不锁死"
+      ],
+      "tips": [
+        "脚放得越高，臀部刺激越多",
+        "脚放得越低，股四头肌刺激越多",
+        "每组10-12次，做3-4组"
+      ],
+      "warnings": [
+        "膝盖不要完全锁死",
+        "下放时不要过深，避免膝盖超伸",
+        "保持腰部贴紧靠背"
+      ],
+      "imageUrl": "/images/equipment/leg-press.jpg",
+      "videoUrl": "https://www.bilibili.com/video/BV1example9"
+    },
+    {
+      "id": "leg-extension",
+      "name": "腿屈伸机",
+      "category": "strength-lower",
+      "targetMuscles": ["股四头肌"],
+      "difficulty": "beginner",
+      "description": "腿屈伸机孤立锻炼股四头肌，帮助塑造大腿前侧线条，常作为腿部训练的结束动作。",
+      "instructions": [
+        "调整座椅，使膝盖对齐转轴",
+        "小腿放在滚垫后面",
+        "双手握住两侧手柄",
+        "用力伸直小腿，在最高点停顿",
+        "缓慢下放，保持控制"
+      ],
+      "tips": [
+        "伸直时呼气，下放时吸气",
+        "注意力集中在大腿前侧",
+        "每组12-15次，做3组"
+      ],
+      "warnings": [
+        "重量不要过大，膝盖容易受伤",
+        "下放时保持控制，不要突然放松",
+        "如有膝盖疼痛，停止训练"
+      ],
+      "imageUrl": "/images/equipment/leg-extension.jpg",
+      "videoUrl": "https://www.bilibili.com/video/BV1example10"
+    },
+    {
+      "id": "leg-curl",
+      "name": "腿弯举机",
+      "category": "strength-lower",
+      "targetMuscles": ["腘绳肌"],
+      "difficulty": "beginner",
+      "description": "腿弯举机孤立锻炼腘绳肌（大腿后侧），平衡腿部力量，预防大腿前后的力量失衡。",
+      "instructions": [
+        "趴在器械上，小腿放在滚垫下方",
+        "双手握住前方手柄固定身体",
+        "用力弯曲小腿，尽量靠近臀部",
+        "在最高点停顿1-2秒",
+        "缓慢下放，保持控制"
+      ],
+      "tips": [
+        "弯举时呼气，下放时吸气",
+        "感受大腿后侧的收缩",
+        "每组12-15次，做3组"
+      ],
+      "warnings": [
+        "下放时保持控制",
+        "不要用惯性摆动",
+        "如有腘绳肌拉伤史，谨慎训练"
+      ],
+      "imageUrl": "/images/equipment/leg-curl.jpg",
+      "videoUrl": "https://www.bilibili.com/video/BV1example11"
+    },
+    {
+      "id": "bicep-curl",
+      "name": "二头肌弯举机",
+      "category": "strength-upper",
+      "targetMuscles": ["肱二头肌"],
+      "difficulty": "beginner",
+      "description": "二头肌弯举机孤立锻炼肱二头肌，固定轨迹避免借力，帮助打造结实的手臂。",
+      "instructions": [
+        "调整座椅高度，使手臂放在垫子上",
+        "双手握住手柄，掌心向上",
+        "用力弯曲手臂，尽量靠近肩膀",
+        "在最高点停顿1-2秒",
+        "缓慢下放，保持控制"
+      ],
+      "tips": [
+        "弯举时呼气，下放时吸气",
+        "注意力集中在肱二头肌",
+        "每组10-12次，做3组"
+      ],
+      "warnings": [
+        "不要晃动身体借力",
+        "下放时保持控制",
+        "不要锁死肘关节"
+      ],
+      "imageUrl": "/images/equipment/bicep-curl.jpg",
+      "videoUrl": "https://www.bilibili.com/video/BV1example12"
+    },
+    {
+      "id": "tricep-pushdown",
+      "name": "三头肌下压机",
+      "category": "strength-upper",
+      "targetMuscles": ["肱三头肌"],
+      "difficulty": "beginner",
+      "description": "三头肌下压机孤立锻炼肱三头肌，帮助紧致手臂后侧，告别蝴蝶袖。",
+      "instructions": [
+        "面对器械站立，双手握住手柄",
+        "上臂贴近身体两侧不动",
+        "用力下压手柄，直到手臂伸直",
+        "在最低点停顿1-2秒",
+        "缓慢还原，保持上臂稳定"
+      ],
+      "tips": [
+        "下压时呼气，还原时吸气",
+        "上臂始终保持贴近身体",
+        "每组12-15次，做3组"
+      ],
+      "warnings": [
+        "不要用身体重量下压",
+        "保持手肘位置稳定",
+        "还原时保持控制"
+      ],
+      "imageUrl": "/images/equipment/tricep-pushdown.jpg",
+      "videoUrl": "https://www.bilibili.com/video/BV1example13"
+    },
+    {
+      "id": "cable-machine",
+      "name": "龙门架/滑轮机",
+      "category": "strength-full",
+      "targetMuscles": ["全身"],
+      "difficulty": "intermediate",
+      "description": "龙门架是最多功能的器械之一，可以通过不同的握把和滑轮位置，锻炼全身各个部位。",
+      "instructions": [
+        "根据训练部位调整滑轮高度",
+        "选择合适的握把（绳索、直杆、V型等）",
+        "选择合适的重量",
+        "按照具体动作要领进行训练"
+      ],
+      "tips": [
+        "适合做多种动作：夹胸、下拉、飞鸟等",
+        "保持核心稳定，控制动作节奏",
+        "新手建议请教教练学习具体动作"
+      ],
+      "warnings": [
+        "动作要控制好，不要借力",
+        "更换重量时确保安全",
+        "使用后把配件归位"
+      ],
+      "imageUrl": "/images/equipment/cable-machine.jpg",
+      "videoUrl": "https://www.bilibili.com/video/BV1example14"
+    },
+    {
+      "id": "dumbbell",
+      "name": "哑铃",
+      "category": "free-weights",
+      "targetMuscles": ["全身"],
+      "difficulty": "beginner",
+      "description": "哑铃是最基础的自由重量，可以锻炼全身肌肉，提高协调性和稳定性。",
+      "instructions": [
+        "选择合适的重量，从轻开始",
+        "动作要缓慢控制，不要借力",
+        "保持核心稳定，身体正直"
+      ],
+      "tips": [
+        "新手建议从固定器械开始",
+        "掌握动作后再用哑铃",
+        "可以做推举、弯举、划船等多种动作"
+      ],
+      "warnings": [
+        "不要使用过重的重量",
+        "保持周围空间，避免碰到他人",
+        "使用完放回原位"
+      ],
+      "imageUrl": "/images/equipment/dumbbell.jpg",
+      "videoUrl": "https://www.bilibili.com/video/BV1example15"
+    }
+  ]
+}

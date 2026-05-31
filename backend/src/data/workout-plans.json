@@ -1,0 +1,464 @@
+{
+  "workoutPlans": [
+    {
+      "id": "beginner-3day",
+      "name": "新手三分化训练",
+      "level": "beginner",
+      "goal": "general-fitness",
+      "duration": "4周",
+      "frequency": "每周3次",
+      "description": "适合健身新手的三分化训练计划，帮助你全面锻炼各大肌群，建立正确的训练习惯。",
+      "weeklySchedule": [
+        {
+          "day": 1,
+          "name": "周一：胸 + 三头",
+          "focus": "胸部和肱三头肌",
+          "exercises": [
+            {
+              "name": "坐姿推胸机",
+              "equipment": "chest-press",
+              "sets": 3,
+              "reps": "12-15",
+              "rest": "60秒",
+              "notes": "重量先轻，掌握动作"
+            },
+            {
+              "name": "蝴蝶机夹胸",
+              "equipment": "butterfly",
+              "sets": 3,
+              "reps": "12-15",
+              "rest": "60秒",
+              "notes": "感受胸肌中缝收缩"
+            },
+            {
+              "name": "三头肌下压",
+              "equipment": "tricep-pushdown",
+              "sets": 3,
+              "reps": "12-15",
+              "rest": "60秒",
+              "notes": "上臂保持不动"
+            },
+            {
+              "name": "跑步机",
+              "equipment": "treadmill",
+              "sets": 1,
+              "reps": "15分钟慢跑",
+              "rest": "-",
+              "notes": "放松恢复"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "name": "周三：背 + 二头",
+          "focus": "背部和肱二头肌",
+          "exercises": [
+            {
+              "name": "高位下拉",
+              "equipment": "lat-pulldown",
+              "sets": 3,
+              "reps": "12-15",
+              "rest": "60秒",
+              "notes": "挺胸收腹，不要耸肩"
+            },
+            {
+              "name": "坐姿划船",
+              "equipment": "seated-row",
+              "sets": 3,
+              "reps": "12-15",
+              "rest": "60秒",
+              "notes": "感受背部收缩"
+            },
+            {
+              "name": "二头肌弯举机",
+              "equipment": "bicep-curl",
+              "sets": 3,
+              "reps": "12-15",
+              "rest": "60秒",
+              "notes": "动作要慢"
+            },
+            {
+              "name": "椭圆机",
+              "equipment": "elliptical",
+              "sets": 1,
+              "reps": "15分钟",
+              "rest": "-",
+              "notes": "低冲击有氧"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "name": "周五：腿 + 肩",
+          "focus": "腿部和肩部",
+          "exercises": [
+            {
+              "name": "腿举机",
+              "equipment": "leg-press",
+              "sets": 3,
+              "reps": "12-15",
+              "rest": "90秒",
+              "notes": "重量可以稍大"
+            },
+            {
+              "name": "腿屈伸机",
+              "equipment": "leg-extension",
+              "sets": 3,
+              "reps": "12-15",
+              "rest": "60秒",
+              "notes": "感受股四头肌收缩"
+            },
+            {
+              "name": "腿弯举机",
+              "equipment": "leg-curl",
+              "sets": 3,
+              "reps": "12-15",
+              "rest": "60秒",
+              "notes": "感受大腿后侧"
+            },
+            {
+              "name": "肩部推举机",
+              "equipment": "shoulder-press",
+              "sets": 3,
+              "reps": "12-15",
+              "rest": "60秒",
+              "notes": "不要耸肩"
+            },
+            {
+              "name": "划船机",
+              "equipment": "rowing-machine",
+              "sets": 1,
+              "reps": "10分钟",
+              "rest": "-",
+              "notes": "全身有氧"
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "训练前热身5-10分钟",
+        "每个动作做3组，组间休息60-90秒",
+        "重量选择：能完成12-15次但最后2次感到吃力",
+        "训练后拉伸5-10分钟",
+        "保持充足睡眠和饮食"
+      ]
+    },
+    {
+      "id": "fat-loss-cardio",
+      "name": "减脂有氧计划",
+      "level": "beginner",
+      "goal": "fat-loss",
+      "duration": "4周",
+      "frequency": "每周4-5次",
+      "description": "以有氧运动为主的减脂计划，配合轻量力量训练，帮助燃烧脂肪塑造线条。",
+      "weeklySchedule": [
+        {
+          "day": 1,
+          "name": "周一：有氧基础",
+          "focus": "心肺功能",
+          "exercises": [
+            {
+              "name": "跑步机快走/慢跑",
+              "equipment": "treadmill",
+              "sets": 1,
+              "reps": "30分钟",
+              "rest": "-",
+              "notes": "保持心率在130-150"
+            },
+            {
+              "name": "椭圆机放松",
+              "equipment": "elliptical",
+              "sets": 1,
+              "reps": "10分钟",
+              "rest": "-",
+              "notes": "低强度恢复"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "name": "周二：全身力量",
+          "focus": "全身肌群",
+          "exercises": [
+            {
+              "name": "坐姿推胸机",
+              "equipment": "chest-press",
+              "sets": 2,
+              "reps": "15",
+              "rest": "45秒",
+              "notes": "轻重量多次数"
+            },
+            {
+              "name": "高位下拉",
+              "equipment": "lat-pulldown",
+              "sets": 2,
+              "reps": "15",
+              "rest": "45秒",
+              "notes": "保持节奏"
+            },
+            {
+              "name": "腿举机",
+              "equipment": "leg-press",
+              "sets": 2,
+              "reps": "15",
+              "rest": "45秒",
+              "notes": "动作流畅"
+            },
+            {
+              "name": "划船机",
+              "equipment": "rowing-machine",
+              "sets": 1,
+              "reps": "15分钟",
+              "rest": "-",
+              "notes": "中等强度"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "name": "周三：HIIT训练",
+          "focus": "高强度间歇",
+          "exercises": [
+            {
+              "name": "跑步机HIIT",
+              "equipment": "treadmill",
+              "sets": 1,
+              "reps": "20分钟",
+              "rest": "-",
+              "notes": "快跑1分钟+慢走1分钟，重复10次"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "name": "周四：休息或轻度活动",
+          "focus": "恢复",
+          "exercises": [
+            {
+              "name": "椭圆机",
+              "equipment": "elliptical",
+              "sets": 1,
+              "reps": "20分钟轻松",
+              "rest": "-",
+              "notes": "心率控制在120以下"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "name": "周五：全身有氧",
+          "focus": "全身燃脂",
+          "exercises": [
+            {
+              "name": "划船机",
+              "equipment": "rowing-machine",
+              "sets": 1,
+              "reps": "20分钟",
+              "rest": "-",
+              "notes": "保持均匀节奏"
+            },
+            {
+              "name": "跑步机",
+              "equipment": "treadmill",
+              "sets": 1,
+              "reps": "15分钟",
+              "rest": "3分钟",
+              "notes": "中等强度"
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "控制饮食热量摄入是减脂关键",
+        "每周至少4次有氧训练",
+        "力量训练帮助维持肌肉量",
+        "保持心率在燃脂区间（130-150）",
+        "多喝水，少吃精制碳水"
+      ]
+    },
+    {
+      "id": "muscle-building",
+      "name": "增肌训练计划",
+      "level": "intermediate",
+      "goal": "muscle-gain",
+      "duration": "8周",
+      "frequency": "每周4次",
+      "description": "四分化增肌计划，每个肌群每周训练两次，注重渐进超负荷原则。",
+      "weeklySchedule": [
+        {
+          "day": 1,
+          "name": "周一：胸 + 三头",
+          "focus": "胸部和肱三头肌",
+          "exercises": [
+            {
+              "name": "坐姿推胸机",
+              "equipment": "chest-press",
+              "sets": 4,
+              "reps": "8-12",
+              "rest": "90秒",
+              "notes": "重量递增"
+            },
+            {
+              "name": "蝴蝶机夹胸",
+              "equipment": "butterfly",
+              "sets": 3,
+              "reps": "10-12",
+              "rest": "60秒",
+              "notes": "顶峰收缩"
+            },
+            {
+              "name": "龙门架夹胸",
+              "equipment": "cable-machine",
+              "sets": 3,
+              "reps": "12-15",
+              "rest": "60秒",
+              "notes": "拉伸感"
+            },
+            {
+              "name": "三头肌下压",
+              "equipment": "tricep-pushdown",
+              "sets": 3,
+              "reps": "10-12",
+              "rest": "60秒",
+              "notes": "离心控制"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "name": "周二：背 + 二头",
+          "focus": "背部和肱二头肌",
+          "exercises": [
+            {
+              "name": "高位下拉",
+              "equipment": "lat-pulldown",
+              "sets": 4,
+              "reps": "8-12",
+              "rest": "90秒",
+              "notes": "宽握"
+            },
+            {
+              "name": "坐姿划船",
+              "equipment": "seated-row",
+              "sets": 4,
+              "reps": "8-12",
+              "rest": "90秒",
+              "notes": "窄握"
+            },
+            {
+              "name": "二头肌弯举机",
+              "equipment": "bicep-curl",
+              "sets": 3,
+              "reps": "10-12",
+              "rest": "60秒",
+              "notes": "全程控制"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "name": "周四：腿",
+          "focus": "腿部肌群",
+          "exercises": [
+            {
+              "name": "腿举机",
+              "equipment": "leg-press",
+              "sets": 4,
+              "reps": "10-12",
+              "rest": "120秒",
+              "notes": "大重量"
+            },
+            {
+              "name": "腿屈伸机",
+              "equipment": "leg-extension",
+              "sets": 3,
+              "reps": "12-15",
+              "rest": "60秒",
+              "notes": "顶峰收缩"
+            },
+            {
+              "name": "腿弯举机",
+              "equipment": "leg-curl",
+              "sets": 3,
+              "reps": "10-12",
+              "rest": "60秒",
+              "notes": "慢离心"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "name": "周五：肩 + 腹",
+          "focus": "肩部和核心",
+          "exercises": [
+            {
+              "name": "肩部推举机",
+              "equipment": "shoulder-press",
+              "sets": 4,
+              "reps": "8-12",
+              "rest": "90秒",
+              "notes": "稳定核心"
+            },
+            {
+              "name": "龙门架侧平举",
+              "equipment": "cable-machine",
+              "sets": 3,
+              "reps": "12-15",
+              "rest": "60秒",
+              "notes": "侧束刺激"
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "渐进超负荷：每周增加重量或次数",
+        "训练后30分钟内补充蛋白质",
+        "保证每天7-8小时睡眠",
+        "每8周增加5-10%训练量",
+        "记录训练数据，跟踪进步"
+      ]
+    }
+  ],
+  "fitnessTips": [
+    {
+      "category": "新手入门",
+      "tips": [
+        "不要急于求成，先掌握正确的动作",
+        "从固定器械开始，比自由重量更安全",
+        "每次训练45-60分钟为宜",
+        "训练前热身，训练后拉伸",
+        "保持耐心，健身是长期过程"
+      ]
+    },
+    {
+      "category": "训练技巧",
+      "tips": [
+        "离心阶段（放下重量）要慢，约2-3秒",
+        "向心阶段（举起重量）可以稍快",
+        "顶峰收缩时停顿1秒",
+        "呼吸：用力时呼气，还原时吸气",
+        "动作全程保持控制，不要借力"
+      ]
+    },
+    {
+      "category": "饮食建议",
+      "tips": [
+        "增肌期：热量摄入大于消耗300-500卡",
+        "减脂期：热量摄入小于消耗300-500卡",
+        "蛋白质摄入：每公斤体重1.6-2.2克",
+        "多喝水，每天至少2升",
+        "少食多餐，每3-4小时进食一次"
+      ]
+    },
+    {
+      "category": "恢复休息",
+      "tips": [
+        "同一肌群训练后休息48-72小时",
+        "保证每天7-8小时睡眠",
+        "可以安排主动恢复日（轻度有氧、拉伸）",
+        "感到过度疲劳时适当减少训练量",
+        "定期安排减载周，降低训练强度"
+      ]
+    }
+  ]
+}
